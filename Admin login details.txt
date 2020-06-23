@@ -1,0 +1,4 @@
+Admin Login
+Url: http://localhost/Hotel/admin/index.php
+User Name: admin@gmail.com
+Password: admin
